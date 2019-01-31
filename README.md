@@ -90,6 +90,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [BlazorNasaImages](https://github.com/ncarandini/BlazorNasaImages) A sample Blazor app that fetches the Nasa Astronomy Picture of the Day.
 * [BlazorPaint](https://github.com/Lupusa87/BlazorPaint) A paint sample with Blazor ([demo](https://lupblazordemos.z13.web.core.windows.net/PaintPage)).
 * [BlazorPasswordPattern](https://github.com/Lupusa87/BlazorPasswordPattern) Password pattern based on SVG.
+* [Blazing.Pizza](https://github.com/dotnet-presentations/blazor-workshop) A Workshop's sample used to demo building a Blazor app.
 * [BlazorPong](https://github.com/ctrl-alt-d/blazorpong) 8 bits pong with blazor and signalR. Warning: Blazor Pong is not finished and is stopped with a knowed SignalR issue with Blazor, more info [here](https://github.com/AdrienTorris/awesome-blazor/pull/19).
 * [BlazorQuiz](https://github.com/Amine-Smahi/BlazorQuiz) Simple quiz using Blazor.NET and Webassembly.
 * [BlazorRawHtmlRenderer](https://github.com/Lupusa87/BlazorRawHtmlRenderer) Raw HTML rendering with Blazor.
@@ -103,7 +104,7 @@ Please note that if you want to open Blazor projects in Visual Studio, you must 
 * [Blazor.Toaster](https://github.com/sotsera/sotsera.blazor.toaster) A Blazor port of Toastr.js.
 * [Blazor Tree CRUD](https://github.com/ctrl-alt-d/TreeCrud) CRUD operations with hierarchical data. Blazor Server + GraphQL + EF.
 * [Blazor.Universal](https://github.com/pushqrdx/Blazor.Universal) Example of using Blazor to build Xamarin based UWP application without WebAssembly.
-* [Blazing.Pizza](https://github.com/dotnet-presentations/blazor-workshop)Workshop building a Blazor app.
+
 * [Blazor.Xamarin](https://github.com/Appizeo/Blazor.Xamarin) A Xamarin template for launch and interop a Blazor app on mobile.
 * [Blazume](https://github.com/Amine-Smahi/Blazume) A simple portfolio/Resume template using Blazor.
 * [Calamari Blog](https://github.com/thewebchameleon/calamari-blog-blazor) A simple blog and portfolio site running on Squidex.
